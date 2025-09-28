@@ -42,7 +42,14 @@ Since this project is frontend-only, setup is simple:
 ##  Screenshots
 
 1.All the screenshort contains in the screenshort folder
-
+HOME:
+![alt text](screenshort/cart.png)
+CART:
+![alt text](screenshort/home.png)
+PLACE ORDER:
+![alt text](screenshort/order.png)
+PAYMENT:
+![alt text](screenshort/demo_payment.png)
 ---
 
 ## 🎯 Usage
